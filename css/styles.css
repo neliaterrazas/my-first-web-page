@@ -1,23 +1,14 @@
 h1 {
-  color: red;
+  font-size: 70pt;
   text-align: center;
 }
-
 h2 {
-  color: green;
-  font-style: italic;
   text-align: center;
 }
-
-p {
-  color: orange;
-  font-family: sans-serif;
-  font-weight: 200;
-  text-align: center;
+ol {
+  font-weight: 600;
 }
-
-ul {
-  color: brown;
-  font-size: 20px;
-  line-height: 30px;
+body {
+  color: blue;
+  font-family: cursive;
 }
